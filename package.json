@@ -10,9 +10,14 @@
   },
   "dependencies": {
     "expo": "~48.0.9",
+    "expo-image-picker": "^14.1.1",
     "expo-status-bar": "~1.4.4",
+    "nanoid": "^4.0.2",
     "react": "18.2.0",
-    "react-native": "0.71.4"
+    "react-native": "^0.71.4",
+    "react-native-get-random-values": "^1.8.0",
+    "react-native-image-crop-picker": "^0.39.0",
+    "react-native-image-picker": "^5.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
